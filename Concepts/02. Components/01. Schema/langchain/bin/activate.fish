@@ -33,7 +33,7 @@ end
 # Unset irrelevant variables.
 deactivate nondestructive
 
-set -gx VIRTUAL_ENV "/Users/allenharper/code/langchain-for-humans/Concepts/02. Components/01. Schema/langchain"
+set -gx VIRTUAL_ENV "/Users/allenharper/Dropbox/code/langchain-for-humans/Concepts/02. Components/01. Schema/langchain"
 
 set -gx _OLD_VIRTUAL_PATH $PATH
 set -gx PATH "$VIRTUAL_ENV/bin" $PATH

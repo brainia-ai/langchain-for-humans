@@ -38,7 +38,7 @@ deactivate () {
 # unset irrelevant variables
 deactivate nondestructive
 
-VIRTUAL_ENV="/Users/allenharper/code/langchain-for-humans/Concepts/02. Components/01. Schema/langchain"
+VIRTUAL_ENV="/Users/allenharper/Dropbox/code/langchain-for-humans/Concepts/02. Components/01. Schema/langchain"
 export VIRTUAL_ENV
 
 _OLD_VIRTUAL_PATH="$PATH"
