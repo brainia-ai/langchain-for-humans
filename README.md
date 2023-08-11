@@ -19,5 +19,5 @@ The tutorials provided here are in Jupyter format, if you need information on us
 ## References
 
 Many useful references have been used in the creation of this repo, here are a few strong ones. I encourage you to follow each of them and their projects, they are well done.
-[Greg Kamradt (Data Indy)] (<https://github.com/gkamradt/langchain-tutorials/>)
-[Curiously - Venelin Valkov] (<https://github.com/curiousily/Get-Things-Done-with-Prompt-Engineering-and-LangChain>)
+**[Greg Kamradt (Data Indy)] (<https://github.com/gkamradt/langchain-tutorials/>)
+**[Curiously - Venelin Valkov] (<https://github.com/curiousily/Get-Things-Done-with-Prompt-Engineering-and-LangChain>)
