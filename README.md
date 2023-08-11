@@ -1,8 +1,9 @@
 # langchain-for-humans
 
-Access langchain and OpenAI today and become part of this emerging field.
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/brainia-ai/langchain-for-humans)
 [![](https://img.shields.io/github/license/harperaa/langchain-for-humans)](https://github.com/harperaa/langchain-for-humans/blob/master/LICENSE)
+
+Access langchain and OpenAI today and become part of this emerging field.
 
 ## Purpose
 
