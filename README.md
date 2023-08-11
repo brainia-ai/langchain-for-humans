@@ -3,6 +3,7 @@
 Access langchain and OpenAI today and become part of this emerging field.
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/harperaa/langchain-for-humans/Content)
+
 [![](https://img.shields.io/github/license/harperaa/langchain-for-humans)](https://github.com/harperaa/langchain-for-humans/blob/master/LICENSE)
 
 ## Purpose
