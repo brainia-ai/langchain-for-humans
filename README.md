@@ -1,13 +1,7 @@
 # langchain-for-humans
 
 Access langchain and OpenAI today and become part of this emerging field.
-
-<<<<<<< HEAD
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/harperaa/langchain-for-humans/Content)
-
-=======
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/brainia-ai/langchain-for-humans)
->>>>>>> 8aff84fd9d0050517a2d4780b1c93757b4e88b9b
 [![](https://img.shields.io/github/license/harperaa/langchain-for-humans)](https://github.com/harperaa/langchain-for-humans/blob/master/LICENSE)
 
 ## Purpose
@@ -23,5 +17,6 @@ The tutorials provided here are in Jupyter format, if you need information on us
 ## References
 
 Many useful references have been used in the creation of this repo, here are a few strong ones. I encourage you to follow each of them and their projects, they are well done.
-**[Greg Kamradt (Data Indy)] (<https://github.com/gkamradt/langchain-tutorials/>)
-**[Curiously - Venelin Valkov] (<https://github.com/curiousily/Get-Things-Done-with-Prompt-Engineering-and-LangChain>)
+
+1. [Greg Kamradt (Data Indy)] (<https://github.com/gkamradt/langchain-tutorials/>)
+2. [Curiously - Venelin Valkov] (<https://github.com/curiousily/Get-Things-Done-with-Prompt-Engineering-and-LangChain>)
