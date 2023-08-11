@@ -1,7 +1,7 @@
 # langchain-for-humans
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/brainia-ai/langchain-for-humans)
-[![](https://img.shields.io/github/license/brainia-ai/langchain-for-humans)](https://github.com/brainia-ai/langchain-for-humans/blob/master/LICENSE)
+[![](https://img.shields.io/github/license/brainia-ai/langchain-for-humans)](https://github.com/brainia-ai/langchain-for-humans/blob/master/LICENSE.txt)
 
 Access langchain and OpenAI today and become part of this emerging field.
 
